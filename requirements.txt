@@ -1,0 +1,30 @@
+# Core dependencies
+streamlit>=1.28.0
+deepface>=0.0.79
+opencv-python>=4.8.0
+pytesseract>=0.3.10
+Pillow>=10.0.0
+numpy>=1.24.0
+
+# Additional dependencies for DeepFace
+tensorflow>=2.13.0
+keras>=2.13.0
+mtcnn>=0.1.1
+retina-face>=0.0.13
+
+# Image processing
+opencv-contrib-python>=4.8.0
+scikit-image>=0.21.0
+
+# Utilities
+python-dateutil>=2.8.2
+regex>=2023.8.8
+
+# Optional: For better performance
+# mediapipe>=0.10.0
+# dlib>=19.24.0
+
+# Development dependencies (optional)
+# pytest>=7.4.0
+# black>=23.7.0
+# flake8>=6.0.0
