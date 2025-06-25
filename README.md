@@ -22,6 +22,15 @@ A secure AI-powered identity verification system that matches faces from Aadhar 
 - **🎂 Age Verification**: Automatic age calculation and eligibility check
 
 ## 🖥️ Screenshots
+![WhatsApp Image 2025-06-25 at 4 33 33 PM](https://github.com/user-attachments/assets/d06e041e-2f33-4095-9fab-084f77a75840)
+![WhatsApp Image 2025-06-25 at 4 39 39 PM](https://github.com/user-attachments/assets/c432e5e1-c0a5-440a-b5c4-70b5c6666c22)
+![WhatsApp Image 2025-06-25 at 4 45 06 PM](https://github.com/user-attachments/assets/8c21ab13-06cb-4890-856d-64e60b33e95d)
+![WhatsApp Image 2025-06-25 at 4 37 29 PM](https://github.com/user-attachments/assets/dc2fce51-1f5a-4eeb-a762-ae036e963155)
+![WhatsApp Image 2025-06-25 at 4 36 32 PM](https://github.com/user-attachments/assets/7defded9-abae-4fce-9c9a-f656a163d369)
+![WhatsApp Image 2025-06-25 at 4 34 38 PM](https://github.com/user-attachments/assets/e8efd176-3c81-479d-89b3-81a6f1f36728)
+
+
+
 
 ### Main Interface
 *Modern glassmorphism UI with smooth animations*
